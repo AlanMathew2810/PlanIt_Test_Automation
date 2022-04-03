@@ -1,11 +1,12 @@
-# PlanIt_Test_Automation
 
-# First I created a Maven project in the eclipse and then added the following maven dependencies in the pom.xml file
-# 1.	Cucumber JAVA
-# 2.	TestNG
-# 3.	Cucumber TestNG
-# 4.	Selenium JAVA
-# 5.	Maven Cucumber Report
+#PlanIt_Test_Automation
+
+#First I created a Maven project in the eclipse and then added the following maven dependencies in the pom.xml file
+#1.	Cucumber JAVA
+#2.	TestNG
+#3.	Cucumber TestNG
+#4.	Selenium JAVA
+#5.	Maven Cucumber Report
 
 #Then I created a folder named ‘Driver’ under src/test/resources and added ChromeDriver to this folder
 

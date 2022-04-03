@@ -18,15 +18,15 @@
 
 
 #Next, I created a folder ‘Features’ under src/test/resources and created a .feature file inside the folder. 
-#Here I wrote scenario of inputs, actions and outcomes in plain English language called Gherkin.
+Here I wrote scenario of inputs, actions and outcomes in plain English language called Gherkin.
 
 
 #After that, I created a package named ‘StepDefinition’ under src/test/java and wrote the step definition for each steps in the feature file. 
 
 
 #I used selenium PageFactory,  page object model concept and TestNG concept to create my framework. 
-#I created a java class for each page in the Jupiter Toys website. In this java classes, I identified the WebElements and wrote methods. 
-#These methods are the actions to be performed.
+I created a java class for each page in the Jupiter Toys website. In this java classes, I identified the WebElements and wrote methods. 
+These methods are the actions to be performed.
 
 
 #At last I created a runner class under ‘StepDefinition’ named ‘TestRunner.java’ to link the feature file with the step definition file.
